@@ -1,5 +1,5 @@
 # Ingredientes.txt
 2 aguacates
 2 limas
-2 cucharaditas de sal
+1 cucharaditas de sal
 1/2 cebolla
